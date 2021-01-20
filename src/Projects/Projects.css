@@ -1,0 +1,19 @@
+.projects-title {
+  color: #66fcf1
+}
+
+.project-divs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.project-card {
+  padding: 20px;
+  height: auto;
+  width: 200px;
+  background: #c5c6c7;
+  text-align: center;
+}
