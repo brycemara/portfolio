@@ -15,7 +15,7 @@ function About() {
       <h1 className="about-title">About Me</h1>
       <section className="about-me">
         <p>
-          Industrial Engineer turn Software Developer I have a passion for
+          Industrial Engineer turn Software Developer, I have a passion for
           problem solving. If you want the technical "about me", contact me for
           my resume and cover letter. Here I would rather show you who I am
           outside of my work and education. And they say a picture is worth a
@@ -23,7 +23,6 @@ function About() {
         </p>
       </section>
       <h1 className="image-title">
-        {" "}
         Some of my favorite places I've traveled to
       </h1>
       <div className="wrapper">

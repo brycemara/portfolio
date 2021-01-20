@@ -1,6 +1,13 @@
 .projects-title {
   color: #66fcf1;
   padding: 20px;
+  font-size: 35px;
+}
+
+.project-title {
+  margin: 5px;
+  color: #1f2833;
+  font-size: 30px;
 }
 
 .project-divs {
@@ -15,7 +22,8 @@
 .project-card {
   padding: 20px;
   height: auto;
-  width: 200px;
+  width: 300px;
   background: #c5c6c7;
   text-align: center;
+  border: 1px solid #66fcf1;
 }
