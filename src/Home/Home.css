@@ -1,0 +1,83 @@
+.container {
+  background: #1a1a1d;
+}
+
+.remove-link {
+  text-decoration: none;
+  color: white;
+}
+
+.title {
+  color: white;
+  top: 60px;
+  left: -10px;
+  position: relative;
+  transform: rotate(-45deg);
+  text-shadow: black 0px 0px 5px;
+  font-size: 1.25em;
+}
+
+.list-wrapper {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  width: 600px;
+  height: 150px;
+}
+
+.list-wrapper li.about {
+  background-size: 300px;
+  background-image: url('../assets/claro.jpg');
+
+  bottom: 0;
+  left: 25%;
+}
+
+.list-wrapper li.contact {
+  background: #c5c6c7;
+  background-size: 300px, 300px;
+  top: 0;
+  left: 50%;
+}
+
+.list-wrapper li.image {
+  background-size: 300px, 300px;
+  background-image: url('../assets/ocean.JPG');
+  top: 0;
+  left: 100%;
+}
+
+.list-wrapper li.projects {
+  background: #45a29e;
+  transform: scale(1.5) rotate(45deg);
+  bottom: 14em;
+}
+
+.list-wrapper li.image-2 {
+  background-image: url('../assets/ride-the-wave.jpg');
+  background-size: 200px, 200px;
+  bottom: -1.75em;
+  left: 75%;
+  transform: rotate(45deg) scale(1.2);
+}
+
+.list-wrapper li {
+  border: 1px solid#66fcf1;
+  list-style: none;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #000;
+  margin: -100px;
+  transform: rotate(45deg);
+  transition: 0.5s;
+  overflow: hidden;
+  opacity: 0.8;
+}
+
+.list-wrapper li:hover {
+  opacity: 1;
+}

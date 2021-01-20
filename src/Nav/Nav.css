@@ -3,5 +3,14 @@
   flex-direction: row;
   justify-content: space-around;
   padding: 30px;
+  margin: 0px;
   border: 1px solid black;
+  border-bottom: 1px solid #66fcf1;
+}
+
+.name-title {
+  margin: 0px;
+  padding: 0px;
+  color: #66fcf1;
+  font-size: 40px;
 }

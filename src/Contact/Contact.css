@@ -1,0 +1,18 @@
+.contact-title {
+  color: #66fcf1;
+  font-size: 35px;
+}
+
+h2 {
+  color: white;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.contact-me {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
