@@ -7,9 +7,6 @@ return(
     <Link to="/">
       <button>Home</button>
     </Link>
-    <Link to="/projects">
-      <button>Projects</button>
-    </Link>
   </section>
 )
 }
