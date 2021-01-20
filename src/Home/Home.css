@@ -30,21 +30,22 @@
 
 .list-wrapper li.about {
   background-size: 300px;
-  background-image: url('../assets/ocean.JPG');
+  background-image: url('../assets/claro.jpg');
 
   bottom: 0;
   left: 25%;
 }
 
 .list-wrapper li.contact {
+  background: #c5c6c7;
   background-size: 300px, 300px;
-  /* background-image: url('../assets/scrable-image.jpg'); */
   top: 0;
   left: 50%;
 }
 
 .list-wrapper li.image {
   background-size: 300px, 300px;
+  background-image: url('../assets/ocean.JPG');
   top: 0;
   left: 100%;
 }

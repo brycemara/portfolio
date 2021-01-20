@@ -1,0 +1,48 @@
+.about-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about-title {
+  color: #66fcf1
+}
+
+.about-me {
+  padding: 20px;
+  width: 400px;
+  height: auto;
+  background: #ffffffd1;
+}
+
+.travel {
+  width: 350px;
+  height: 450px;
+  background-image: url('../assets/ireland.JPG');
+  background-size: 350px, 250px;
+  margin: 20px;
+}
+
+.texas {
+  width: 450px;
+  height: 350px;
+  background-image: url('../assets/gruene-hall.JPG');
+  background-size: 470px, 350px;
+  margin: 20px;
+}
+
+.abq {
+  width: 450px;
+  height: 350px;
+  background-image: url('../assets/sunset.png');
+  background-size: 470px, 350px;
+  margin: 20px;
+}
+
+.wave {
+  width: 450px;
+  height: 500px;
+  background-image: url('../assets/munich.png');
+  background-size: 470px, 350px;
+  margin: 20px;
+}

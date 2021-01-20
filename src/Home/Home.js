@@ -21,7 +21,6 @@ function Home() {
           </li>
         </Link>
         <li className="image">
-            <h3 className="title">Insert Image</h3>
         </li>
         <li className="image-2">
         </li>
