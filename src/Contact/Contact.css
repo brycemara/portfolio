@@ -1,4 +1,10 @@
+.contact-title {
+  color: #66fcf1
+}
+
 .contact {
+  display: flex;
+  justify-content: center;
   align-items: center;
-  margin: 30px;
+  margin-top: 130px;
 }
