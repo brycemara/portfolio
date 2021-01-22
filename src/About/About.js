@@ -16,8 +16,8 @@ function About() {
       <section className="about-me">
         <p>
           Industrial Engineer turn Software Developer, I have a passion for
-          problem solving. If you want the technical "about me", contact me for
-          my resume and cover letter. Here I would rather show you who I am
+          problem solving. If you want the technical "About Me", contact me for
+          my Resume and Cover Letter. Here I would rather show you who I am
           outside of my work and education. And they say a picture is worth a
           thousand words.
         </p>
@@ -75,7 +75,7 @@ function About() {
           <div class="layer">
             <p>+ Telluride CO</p>
             <p>
-              Many Summers, Christmas's, Thanksgivings and vacations spent here
+              Many Summers, Christmases, Thanksgivings and vacations spent here
               enjoying this magical town and running around with my siblings and
               cousins.
             </p>
@@ -100,7 +100,7 @@ function About() {
             <p>+ Read</p>
             <p>
               Send me your favorite books, ask me about mine. I'm never without
-              a current read. And thats Jax, my little fur baby.
+              a current read. And that's Jax, my little fur baby.
             </p>
           </div>
           <img src={bookImg} alt="not working" width="400" height="900" />
@@ -109,9 +109,7 @@ function About() {
           <div class="layer">
             <p>+ Snowboard</p>
             <p>
-              The coolest dad taught me and my siblings to snowbaord young.
-              Though expensive, one of my favorite things to do. The closest to
-              flying I've ever got to.
+              My favorite past time.
             </p>
           </div>
           <img src={snowboardImg} alt="not working" width="500" height="900" />
