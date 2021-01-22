@@ -109,7 +109,7 @@ function About() {
           <div class="layer">
             <p>+ Snowboard</p>
             <p>
-              My favorite past time.
+              My favorite pastime.
             </p>
           </div>
           <img src={snowboardImg} alt="not working" width="500" height="900" />
